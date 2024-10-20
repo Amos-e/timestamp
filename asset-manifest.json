@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/static/css/main.66942786.css",
+    "main.js": "/static/js/main.17ea0956.js",
+    "static/media/landing_video.mp4": "/static/media/landing_video.e67c4610c3f89d1bffb2.mp4",
+    "static/media/queen_elizabeth_np.jpg": "/static/media/queen_elizabeth_np.2bfb7bf191cf14484adb.jpg",
+    "static/media/discover_uganda.jpg": "/static/media/discover_uganda.1fc2f5a0c1a83b96df1a.jpg",
+    "static/media/queen_np.jpg": "/static/media/queen_np.79e3e6ebe3a94f49832a.jpg",
+    "static/media/rwanda.jpg": "/static/media/rwanda.c2dc283c4dab564d29ca.jpg",
+    "static/media/rwenzori.jpg": "/static/media/rwenzori.65a52c46c3115ff430b0.jpg",
+    "static/media/chimp.jpg": "/static/media/chimp.ed2d4d985208142dddfb.jpg",
+    "static/media/elephant.jpg": "/static/media/elephant.9938a308b11b14c19afa.jpg",
+    "static/media/lion.jpg": "/static/media/lion.ca3b6e4064a2a0088589.jpg",
+    "static/media/zebras_op.jpg": "/static/media/zebras_op.0c72a179c5aa528b1de9.jpg",
+    "static/media/murchison-falls-view.jpg": "/static/media/murchison-falls-view.1c93a5767cde9eb53362.jpg",
+    "static/media/discover_uganda_op.jpg": "/static/media/discover_uganda_op.e19045435d12d81afd4c.jpg",
+    "static/media/hu-chen-op.jpg": "/static/media/hu-chen-op.7ef5b1ab515857c66d51.jpg",
+    "static/media/queen_elizabeth_np-op.jpg": "/static/media/queen_elizabeth_np-op.9d17b3c6f40d879f45b8.jpg",
+    "static/media/gorilla1-op.jpg": "/static/media/gorilla1-op.42763027e68e4bcc444b.jpg",
+    "static/media/giraffes.jpg": "/static/media/giraffes.362a33f23eab8da44a2b.jpg",
+    "static/media/banner-image-op.jpg": "/static/media/banner-image-op.f19a5e5c108b39f6d526.jpg",
+    "static/media/gorilla2-op.jpg": "/static/media/gorilla2-op.7b3b15a5c7e4f098b12b.jpg",
+    "static/media/uga.svg": "/static/media/uga.c2240879567688bcf0b4c0b8aa0f4a7d.svg",
+    "index.html": "/index.html",
+    "static/media/map-pin.svg": "/static/media/map-pin.84a3332d673a87755ece697b0f964ef8.svg",
+    "main.66942786.css.map": "/static/css/main.66942786.css.map",
+    "main.17ea0956.js.map": "/static/js/main.17ea0956.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.66942786.css",
+    "static/js/main.17ea0956.js"
+  ]
+}
